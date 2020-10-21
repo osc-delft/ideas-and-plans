@@ -18,7 +18,7 @@ This repository centres around the use of [issues](https://github.com/osc-delft/
 *I'm still not sure if I know how to start...* - head to the Issues page and see some of the existing ideas being posted to obtain a more concrete overview!
   
 ## How do I contribute to/comment on an idea?
-Head to Issues(https://github.com/osc-delft/ideas-and-plans/issues), read about the existing ideas and add your comments to the issue!
+Head to [issues](https://github.com/osc-delft/ideas-and-plans/issues), read about the existing ideas and add your comments to the issue!
 Good comments:
 - Questions - to help the proposer(s) explain and map their ideas further, e.g. "Could you please let us know a bit more about why you think this is important?"
 - Constructively building on their original ideas, e.g. "I think people in xxx Faculty could also be interested - maybe xxx can help spread the word there?"

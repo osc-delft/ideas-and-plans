@@ -10,7 +10,7 @@ When new members sign up via the sign up form, this process welcomes them to the
 3. Submit an PR with the public profile info that the member added to `people.yaml`, and them added to `members-metadata.yaml`
 4. Review and merge
 5. Add the members' email address to the open science mailing list
-6. Send the onboarding email below, cc-ing faculty data steward
+6. Send the onboarding email below, cc-ing [faculty data steward](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/)
 
 ## Onboarding email
 

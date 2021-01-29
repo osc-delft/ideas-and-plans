@@ -19,9 +19,9 @@ Dear [name],
 Welcome to the Open Science Community Delft :tada: I'm OSC Delft's coordinator Emmy - you can reach out to me if you have any questions/ideas at any point. 
 
 (If member has opted to be listed on the website) 
-Your profile has now been added to our public members' page, please let me know if you've spotted any errors/issues.
+Your profile has now been added to [our public members' page](https://osc-delft.github.io/members), please let me know if you’ve spotted an error in your profile, or if you’d like to amend anything. 
 
-From now on, you'll receive an open science update once every two months - the next one will be sent in [Month, year]. From this newsletter, you can learn about the latest open science developments and opportunities at TU Delft and beyond!
+From now on, you'll receive an open science update once every two months - the next one will be sent in [Month, year]. From this newsletter, you can learn about the latest open science developments and opportunities at TU Delft and beyond! (You can find the previous newsletters [here](https://github.com/osc-delft/newsletters/blob/main/2021-01.md))
 
 We hope you will take advantage of the many opportunities offered to OSC Delft members:
 - [Read more about our community initiatives](https://osc-delft.github.io/initiatives) and see if you would like to join them and their activities! 

@@ -26,7 +26,7 @@ From now on, you'll receive an open science update once every two months - the n
 We hope you will take advantage of the many opportunities offered to OSC Delft members:
 - [Read more about our community initiatives](https://osc-delft.github.io/initiatives) and see if you would like to join them and their activities! 
   - If you would like to become a [data champion](https://osc-delft.github.io/initiatives#data-champions), you can reach out to your faculty data steward [name] (cc-ed). 
-- [Check the events page](https://osc-delft.github.io/events) for open science and community events- participate to meet other open scinece enthusiasts from TU Delft and worldwide
+- [Check the events page](https://osc-delft.github.io/events) for open science and community events- participate to meet other open science enthusiasts from TU Delft and worldwide
 - Share your ideas and experience with the community by writing for [our blog](https://osc-delft.github.io/posts) - email me if you would like to write!
 
 OSC Delft is actively developing and learning - we're always looking for new ideas of things we can do together! You can use the [ideas sandbox](https://github.com/osc-delft/ideas-and-plans) to discuss this with the community, or email me! I look forward to learning and working together with you :)

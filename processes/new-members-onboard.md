@@ -16,6 +16,8 @@ When new members sign up via the sign up form, this process welcomes them to the
 
 ## Onboarding email
 
+Subject: Welcome to the Open Science Community Delft!
+
 Dear [name],
 
 Welcome to the Open Science Community Delft :tada: I'm OSC Delft's coordinator Emmy - you can reach out to me if you have any questions/ideas at any point. 
@@ -25,7 +27,7 @@ Your profile has now been added to [our public members' page](https://osc-delft.
 
 From now on, you'll receive an open science update once every two months - the next one will be sent in [Month, year]. From this newsletter, you can learn about the latest open science developments and opportunities at TU Delft and beyond! (You can find the previous newsletters [here](https://github.com/osc-delft/newsletters/blob/main/2021-01.md))
 
-You are also invited to join the [Open Science Community Delft slack](https://osc-delft.slack.com) - a safe and welcoming space for our community members to have discussions, ask questions and stay updated to the latest opportunities in open science! A personal invitation to join our Slack group will follow this email. 
+You are also invited to join the [Open Science Community Delft slack](https://osc-delft.slack.com) - a safe and welcoming space for our community members to have discussions, ask questions and stay updated on the latest opportunities in open science! A personal invitation to join our Slack group will follow this email. 
 
 We hope you will take advantage of the many opportunities offered to OSC Delft members:
 - [Read more about our community initiatives](https://osc-delft.github.io/initiatives) and see if you would like to join them and their activities! 

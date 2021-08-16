@@ -82,18 +82,18 @@ If you have any questions regarding the event, please don't hesitate to contact 
 
 ## Channels
 
-- [ ] Open Science Community Delft
-    - [ ] Twitter
-    - [ ] Slack
+- Open Science Community Delft
+    - [x] Twitter
+    - [x] Slack
     - [ ] IG?
     - [ ] Special edition newsletter
-- [ ] TU Delft friendly communities
+- TU Delft friendly communities
     - [ ] DCC (MS Teams)
-    - [ ] 4TU.ResearchData
+    - [x] 4TU.ResearchData (thanks Connie!)
     - [ ] OSP Core Team (MS Teams)
-- [ ] Partners
-    - [ ] eScience Center
-- [ ] Friendly networks
+- Partners
+    - [x] eScience Center
+- Friendly networks
     - [ ] nl-RSE
-    - [ ] INOSC
+    - [x] INOSC
     - [ ] DCC Networks?

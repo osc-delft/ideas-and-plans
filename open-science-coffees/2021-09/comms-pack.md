@@ -50,7 +50,7 @@ Suggested tweet text:
 
 
 ### Short blurb for newsletters/Slack spaces
-The [Open Science Community Delft](https://osc-delft.github.io) is hosting an **online**  discussion on **Wednesday Sep 1, 10-11am CEST**, on **reviewing research code**. Join our 3 panellists Anton Akhmerov (TU Delft), Stephen Eglen (University of Cambridge & CODECHECK) and Djura Smits (Netherlands eScience Center) to learn more about and share your thoughts on code review best practices, challenges and latest developments. Find out more and register at https://osc-delft.github.io
+The [Open Science Community Delft](https://osc-delft.github.io) is hosting an **online**  discussion on **Wednesday Sep 1, 10-11am CEST**, on **reviewing research code**. Join our 3 panellists Anton Akhmerov (TU Delft), Stephen Eglen (University of Cambridge & CODECHECK) and Djura Smits (Netherlands eScience Center) to learn more about and share your thoughts on code review best practices, challenges and latest developments. Find out more and register at https://osc-delft.github.io/events
 
 
 ### Email

@@ -1,5 +1,8 @@
 # OS coffee Sep 2021- Comms pack
 
+[![hackmd-github-sync-badge](https://hackmd.io/U--JZnEhS52b_7bPLje0TQ/badge)](https://hackmd.io/U--JZnEhS52b_7bPLje0TQ)
+
+
 ## What is this?
 Open Science Community Delft's first open science coffee session ☕
 

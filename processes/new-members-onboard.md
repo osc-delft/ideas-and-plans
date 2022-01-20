@@ -2,17 +2,21 @@
 When new members sign up via the sign up form, this process welcomes them to the community and ensure that they're added to the website and mailing(s) accordingly.
 
 ## Steps of the process
+> On the sign-up form submission confirmation screen, new members are informed that they will hear back within 2 weeks- therefore, aim to complete this process within 2 weeks of someone signing up.
+ 
 1. Check the submission - does the member want to be listed on the public members' list?
   - If yes, go to step 2
   - If not, go to step 5
 2. Upload their photo to `images/members` in the website repository, which will give us a link to the photo
-  - remember to use the `raw=true` link
-3. Submit an PR with the public profile info that the member added to `people.yaml`, and them added to `members-metadata.yaml`
+  - Download the new members' photos from the community's dropbox account.
+  - when putting the photo URL into the YAML (see the next step), remember to use the `raw=true` link
+3. Submit an PR with the public profile info that the member submited to `people.yaml`, and them added to `members-metadata.yaml`
 4. Review and merge
 5. Add the members' email address to the open science mailing list
 6. Add members' info to the second sheet of the main excel to keep track of community metrics
 7. Send the onboarding email below, cc-ing [faculty data steward](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/)
 8. Add to Slack group
+9. Add members to the Excel sheet
 
 ## Onboarding email
 

@@ -70,3 +70,4 @@ A timeline.
   - In the header section of the post, include `youtubeId:` followed by the ID of the YouTube video (the bit in the video URL after `https://www.youtube.com/watch?v=` )
   - In the place where you want the embedded video to be, put `{% include youtubePlayer.html id=page.youtubeId %}`
 - Share a link with all registrants of the Coffee, using the [post-event email template](template/post-event-email.md).
+- (If you haven't already) document the social image, comms plans, facilitator plans and other assets in this repo. 

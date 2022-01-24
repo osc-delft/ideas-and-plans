@@ -25,15 +25,18 @@ A timeline.
   - Venue: online/on campus.
     - Online allows panellists and more people to more easily participate from around the country and the world. It's also logistically more easy to organise.
     - On campus allows more in-depth interactions. It's also easier for participants to connect with each other. Logistically, there are more moving parts.
+
 *The plan documented here is mainly application for online discussions.*
 
 ### 4-5 weeks ahead
 - **Confirm with all panellists**; ask them to confirm their job title and affiliation which you will use in the communication materials.
-- **Set up the Zoom event**: Set up a registration page for the Zoom event: include the following custom questions to help you understand your participants and engage them:
-    -
-- **Design a social graphic that you can use to advertise the event**: see the [Branding-and-Resources-repo](https://github.com/osc-delft/branding-and-resources) for the raw file, and [this example](2021-10/OS Coffee Oct 2021- Twitter.png).
-- **Set up a communications plan** - see [this template]() and [this past example](2021-09/comms-pack.md).
-- **Start writing an open facilitators' notes document** - see [this template]() and [this past example]().
+- **Set up the Zoom event**: Set up a registration page for the Zoom event: use the [OSCD logo](https://github.com/osc-delft/branding-and-resources/blob/main/logos/OSCD-logo-fullname.png) as the banner; include the following custom optional questions to help you understand your participants and engage them:
+    - Organisation
+    - How did you learn about this event? (Choices: Social media, Open Science Community Delft Newsletter, Other Newsletters, Community Platforms (e.g. Slack, MS Teams), Word of mouth/emails from colleagues, Other)
+    - Any question(s) you would like to ask/discuss with our panellists and audience?
+- **Design a social graphic that you can use to advertise the event**: see the [Branding-and-Resources-repo](https://github.com/osc-delft/branding-and-resources) for the raw file, and [this example](2021-10/OS%20Coffee%20Oct%202021-%20Twitter.png).
+- **Set up a communications plan** - see [this template](https://github.com/osc-delft/ideas-and-plans/blob/main/open-science-coffees/templates/comms-plan-template.md) and [this past example](2021-09/comms-pack.md).
+- **Start writing an open facilitators' notes document** - see [this template](https://github.com/osc-delft/ideas-and-plans/blob/main/open-science-coffees/templates/facilitators-notes.md) and [this past example](https://github.com/osc-delft/ideas-and-plans/blob/main/open-science-coffees/2021-09/facilitators-notes.md).
 
 ### 2-3 weeks ahead
 - **Send panellists the list of important logistic information**; see [this template](templates/panelists-logistics-email.md).

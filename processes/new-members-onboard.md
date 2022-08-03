@@ -41,4 +41,4 @@ We hope you will take advantage of the many opportunities offered to OSC Delft m
 OSC Delft is actively developing and learning - we're always looking for new ideas of things we can do together! You can use the [ideas sandbox](https://github.com/osc-delft/ideas-and-plans) to discuss this with the community, or email me! I look forward to learning and working together with you :)
 
 Best,
-Emmy
+Tanya
